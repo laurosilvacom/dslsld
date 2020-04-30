@@ -12,35 +12,35 @@ In this talk Myk Bilokonsky outline the a subset of Neurodivergent Syndromes and
 
 ## Table of Contents
 
-- 0 Key Terms 
-- 1.0. About
-- 2.0. Neurodiversity 
-- 3.0. Neurodivergent Syndromes and Diagnoses (a subset)
-  - 3.1 Autism 
-  - 3.2 ADHD
-  - 3.3 Bipolar Disorder
-  - 3.4 Dyslexia / Dyscalculia
-  - 3.5 Sensory Processing Disorders
-  - 3.6 Obsessive Compulsive Disorder
-  - 3.7 PTSD
-  - 3.8 Complex PTSD
-- 4.0. Neurodivergent Traits (also a Subset)
-  - 4.1 Time Blindness 
-  - 4.2 Face Blindness (Prosopagnosia)
-  - 4.3 Aphantasia 
-  - 4.4 Sleep Problems
-  - 4.5 Rejection Sensitivity 
-  - 4.6 Toxic Shame 
-  - 4.7 Sensory Overload 
-  - 4.8 Masking 
-  - 4.9 Autistic Communication 
-  - 4.10 Autism and Gender
-  - 4.11 Autism At Work
-- 5.0 Next Steps 
-  - 5.1 Believe People 
-  - 5.2 Accept People
-  - 4.3 Make People Safe 
-- 6.0 Additional resources
+- [0 Key Terms](#0-key-terms) 
+- [1.0. About](#1-about)
+- [2.0. Neurodiversity ](#2-neurodiversity)
+- [3.0. Neurodivergent Syndromes and Diagnoses (a subset)](#3-neurodivergent-syndromes-and-diagnoses-a-subset)
+  - [3.1 Autism](#31-autism)
+  - [3.2 ADHD](#32-adhd)
+  - [3.3 Bipolar Disorder](#33-bipolar-disorder)
+  - [3.4 Dyslexia / Dyscalculia](#34-dyslexia--dyscalculia)
+  - [3.5 Sensory Processing Disorders](#35-sensory-processing-disorders)
+  - [3.6 Obsessive Compulsive Disorder](#36-obsessive-compulsive-disorder)
+  - [3.7 Post-traumatic stress disorder (PTSD)](#37-post-traumatic-stress-disorder-ptsd)
+  - [3.8 Complex PTSD](#38-complex-ptsd)
+- [4.0. Neurodivergent Traits (also a Subset)](#4-neurodivergent-traits-also-a-subset)
+  - [4.1 Time Blindness](#41-time-blindness)
+  - [4.2 Face Blindness (Prosopagnosia)](#42-face-blindness-prosopagnosia)
+  - [4.3 Aphantasia](#43-aphantasia)
+  - [4.4 Sleep Problems](#44-sleep-problems)
+  - [4.5 Rejection Sensitivity](#45-rejection-sensitivity)
+  - [4.6 Toxic Shame](#46-toxic-shame)
+  - [4.7 Sensory Overload](#47-sensory-overload)
+  - [4.8 Masking](#48-masking)
+  - [4.9 Autistic Communication](#49-autistic-communication)
+  - [4.10 Autism and Gender](#410-autism-and-gender)
+  - [4.11 Autism At Work](#411-autism-at-work)
+- [5.0 Next Steps](#5-next-steps)
+  - [5.1 Believe People](#51-believe-people)
+  - [5.2 Accept People](#52-accept-people)
+  - [5.3 Make People Safe](#53-make-people-safe)
+- [6.0 Additional resources](#6-additional-resources)
 
 ## 0. Key Terms 
 
@@ -52,8 +52,8 @@ In this talk Myk Bilokonsky outline the a subset of Neurodivergent Syndromes and
 
 - [Myk Bilokonsky](https://myk.af) - Autistic and ADHC Software Engineer at Moda Analytics
 - [@mykola](https://twitter.com/mykola?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) on Twitter.
-- _Life-long weirdo who's finally figuring it out._
-- **NOT a doctor or medical professional**.
+  - _Life-long weirdo who's finally figuring it out._
+  - **NOT a doctor or medical professional**.
 
 ## 2. Neurodiversity 
 
